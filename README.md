@@ -26,10 +26,6 @@ Users should be able to:
 ![1](./screenshot/Screenshot-desktop.png)
 #### Mobile Design
 ![2](./screenshot/Screenshot-mobile.png)
-### Links
-
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 
