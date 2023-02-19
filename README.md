@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 #### Desktop Design:
-![1](./screenshot/Screenshot-desktop.png)
+![](./screenshot/Screenshot-desktop.png)
 #### Mobile Design
-![2](./screenshot/Screenshot-mobile.png)
+![](./screenshot/Screenshot-mobile.png)
 
 ## My process
 
